@@ -7,6 +7,10 @@
 
 * Christiansetto02@gmail.com
 
+* Instagram: @setto2007
+
+* X: @SettoChristian
+
 
 ## EXPERIENCE: 
 
