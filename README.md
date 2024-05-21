@@ -79,7 +79,7 @@
 
 * Spanish
 
-## Github Statistics
+## Github Statistics 📉
 <p align='center'>
 	<a href="https://github-readme-stats.vercel.app/api?username=christiansetto&show_icons=true&count_private=true">
 	       <img height=150 src="https://github-readme-stats.vercel.app/api?username=christiansetto&show_icons=true&count_private=true"/>
@@ -88,6 +88,12 @@
 	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiansetto&layout=compact"/>
 	   </a>
 </p>
+
+## Technology Stack 🛠 
+* GitHub
+* Computer
+* Phone
+* Makecode Arcade
 
 
 
