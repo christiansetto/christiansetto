@@ -11,6 +11,7 @@
 
 * X: @SettoChristian
 
+* Github: christiansetto
 
 ## EXPERIENCE: 
 
