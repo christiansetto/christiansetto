@@ -88,6 +88,6 @@
 	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiansetto&layout=compact"/>
 	   </a>
 </p>
-![image](https://github.com/christiansetto/christiansetto/assets/158606296/8bef7ffd-7b7d-4ea4-a829-a016bd26070e)
+
 
 
