@@ -19,19 +19,19 @@
    * June 2023 - Present
        * Cleaning Dog bowl and supplying with new food and water
        * Taking the dog to go outside
-       * proves responsibility, good memory, and cooperation
+       * Proves responsibility, good memory, and cooperation
 
 * Student 📖
    * 2012 - Present
       * Turning assignments in on time
       * Working well with other people
-      * proves i am well at managing time and am responsible
+      * Proves I am well at managing time and am responsible
 
 * Cashier 💸
   * July 2021 - May 2024
      * Managing transactions with customers using cash registers
      * Scanning goods and ensuring pricing is accurate
-     * proves that I am trustworthy and smart with money.
+     * Proves that I am trustworthy and smart with money.
 
 ## EDUCATION: 🏫
 * Grand Blanc High School, — 3.98 GPA
